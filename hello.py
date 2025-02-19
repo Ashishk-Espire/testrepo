@@ -1,1 +1,1 @@
-print("Hello...gitHub webhook")
+print("Hello GitHub webhook")
